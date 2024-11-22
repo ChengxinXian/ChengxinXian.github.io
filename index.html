@@ -548,17 +548,7 @@ Author URL: http://ChengxinXian.github.io
 
 
 <!-- //script for Visit Counter -->   
-  <script>
-    function updateVisitCount() {
-      fetch('/')
-        .then(response => response.text())
-        .then(visitCount => {
-          document.getElementById('visitCount').textContent = `Page visited ${visitCount} times`;
-        });
-    }
-    setInterval(updateVisitCount, 5000); // 更新访问次数每5秒一次
-    </script>
-<p id="visitCount">Page visited X times</p>
+
     
 </body>
 
