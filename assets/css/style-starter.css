@@ -10403,13 +10403,13 @@ span.text {
   line-height: 1.4;
   font-weight: 700; }
 
-@media (max-width: 1080px) {
+@media (max-width: 1980px) {
   .w3l-banner h1.title {
     font-size: 40px; }
   .w3l-banner .banner-wrapper {
     margin-top: 40px; } }
 
-@media (max-width: 768px) {
+@media (max-width: 1768px) {
   .w3l-banner h1.title {
     font-size: 36px; }
   .w3l-banner .banner-wrapper {
